@@ -41,11 +41,11 @@ dlldata.c
 # DNX
 project.lock.json
 artifacts/
-src/*/wwwroot/app/*.map
-src/*/wwwroot/app/*.js
-src/*/wwwroot/css/
-src/*/wwwroot/fonts/
-src/*/wwwroot/js/
+src/wwwroot/app/*.map
+src/wwwroot/app/*.js
+src/wwwroot/css/
+src/wwwroot/fonts/
+src/wwwroot/js/
 
 *_i.c
 *_p.c
